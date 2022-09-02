@@ -7,7 +7,7 @@ With updates, this might increase to include many more leagues.
 To get your required dataset you need to follow the described steps:
 1. Download all files into a single directory in your computer.
 2. Ensure you have python 3 and above, pandas and beautifulsoup installed or just pip install.
-3. Run only get-data, by either using the terminal, command-prompt or your IDE.
+3. Run only get-data.py file, by either using the terminal, command-prompt or your IDE.
 4. Provide the following inputs:
     a. Most recent year(if thats what you need), otherwise the latest year from which you wanna start your dataset, eg: 2021
     b. Earliest year from where you want to data: eg: 2019
