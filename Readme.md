@@ -19,4 +19,4 @@ To get your required dataset you need to follow the described steps:
 Enjoy your analysis or ML project process with the collected data :)
 
 It is a sweet data collection project for someone like me and would really appreciate your feedback. 
-Please leave comments if you use the data set. 
+Please leave comments if you use the scripts. 
